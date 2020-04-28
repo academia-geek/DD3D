@@ -1,121 +1,15 @@
 body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    padding: 10px;
+    padding: 15px;
 }
 
-.borde{
-    border: 1px solid black;
-    margin-bottom: 1px;
-    padding: 8px;
+#img_photoshop{
+    max-width: 30%;
 }
 
-#sec_datos_ceo{
-    display: flex;
+#img_ilustrator{
+
 }
 
-#art_foto_ceo{
-    flex: auto;
-}
-
-#art_informacion_ceo{
-    flex: auto;
-}
-
-#cabecera{
-    text-align: center;
-}
-
-#menu{
-    text-align: center;
-}
-
-#menu a {
-	display:inline-block;
-    color:#fff;
-    background-color: #4890cb;
-	text-decoration:none;
-	padding:10px 20px;
-    line-height:normal;
-    border-radius:10px;
-}
-
-#menu a:hover {
-	background:#f56f3a;
-	
-}
-
-#menu .activo{
-    background-color: #e07923;
-}
-
-#art_informacion_ceo hr{
-    width: 45%;
-    margin-left: 0px;
-}
-
-#art_informacion_ceo p{
-    text-align: justify;
-}
-
-#sec_dedicacion {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 80px;
-    padding-right: 80px;
-    background-color: #4890cb;
-    color: #fff;
-}
-#sec_dedicacion hr{
-    width: 20%;
-}
-
-#sec_servicios .ctn_titulo{
-    text-align: center;
-}
-
-#sec_servicios_ceo{
-    display: flex;
-    align-content: space-between;
-}
-
-#sec_servicios_ceo article {
-    border: 2px solid #4890cb;
-    background-color: #ef8a11;
-    color: #fff;
-    text-align: center;
-    box-shadow: 3px 5px 5px 0px black;
-    padding: 30px;
-}
-
-#sec_servicios_ceo .boton_ver{
-    background-color: white;
-    border: 1px solid black;
-    color:#e07923;
-    padding: 5px;
-    box-shadow: 3px 5px 5px 0px rgba(0,0,0,0.75);
-    cursor: pointer;
-}
-
-#sec_servicios_ceo .boton_ver:hover{
-    box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.75);
-    color: #4890cb;
-}
-
-#sec_servicios_ceo article{
-    margin: 3%;
-}
-
-#sec_herramientas{
-    background-color: #4890cb;
-    color: #fff;
-    text-align: center;
-}
-
-#sec_herramientas table td img{
-    width: 40%;
-}
-
-footer{
-    text-align: center;
+#img_corel{
+    max-width: 45%;
 }

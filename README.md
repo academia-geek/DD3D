@@ -1,2 +1,2 @@
-# DD3D
-Proyecto web para la empresa Diseño Digital 3D
+# Digital3D
+Proyecto para la empresa Diseño Digital 3D.
